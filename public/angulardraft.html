@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html ng-app>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Angulardraft</title>
+    
+    <script src="packages/web_components/platform.js"></script>
+    <script src="packages/web_components/dart_support.js"></script>
+    
+    <script async type="application/dart" src="angulardraft.dart"></script>
+    <script async src="packages/browser/dart.js"></script>
+    
+    <link rel="stylesheet" href="angulardraft.css">
+  </head>
+  <body draft-controller >
+    <h1>Draft for {{ctrl.player.Ign}} -- <span class="status">{{ctrl.status}}</span></h1>
+   <div class="bids">
+   <div class="bid_update" ng-cloak ng-repeat="bid in ctrl.bids">
+          <span class="bid_amount">{{bid.bid}}</span>
+          <span class="team">{{bid.team}}</span>
+   </div>
+   </div>
+    <div class="bidinput">
+      <input type="text" ng-model="ctrl.bidAmount" ng-keypress="ctrl.keyPressed($event)">
+      <button ng-disabled="ctrl.tooMuch" >Bid</button>
+      <div>Remaining after bid: {{ctrl.remaining}}</div>
+    </div>
+
+  </body>
+</html>

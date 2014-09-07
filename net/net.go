@@ -3,7 +3,7 @@ package net
 import (
 	"code.google.com/p/go.net/websocket"
 	"encoding/json"
-	"github.com/iph/lol-bot/ols"
+	"github.com/iph/lol-draft/ols"
 	"log"
 	"strings"
 )

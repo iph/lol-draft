@@ -1,7 +1,7 @@
 package draft
 
 import (
-	"github.com/iph/lol-bot/ols"
+	"github.com/iph/lol-draft/ols"
 )
 
 type DraftPlayer struct {
