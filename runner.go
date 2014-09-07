@@ -257,6 +257,7 @@ func main() {
 	app := initApplication()
 	app.Run()
 	http.Handle("/draft/", websocket.Handler(serverHandleWebSockets(app.Server)))
+	http.Handle("/public/", http.StripPrefix("/public/", http.FileServer(http.Dir("public/"))))
 
 	err := http.ListenAndServe(":9001", nil)
 
@@ -267,3 +268,5 @@ func main() {
 }
 
 // Acceptable message {"Type":"BID", "Payload":"10", "Token":"nvrfgt"}
+// TODO: TEAM CANT BID AGAINST THEMSELVES
+// TODO: 0 can work, other even numbers cant
