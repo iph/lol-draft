@@ -1,0 +1,1746 @@
+[
+    {
+        "Ign": "Ninja swirlz",
+        "Id": "24703108",
+        "Name": "Tyler Miller",
+        "NormalizedIgn": "ninjaswirlz",
+        "Roles": [
+            "Mid"
+        ],
+        "Email": "Tjm115@pitt.edu",
+        "Score": 1741,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "President Nixon",
+        "Id": "22033004",
+        "Name": "Brian Dulick",
+        "NormalizedIgn": "presidentnixon",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "bed34@pitt.edu",
+        "Score": 2005,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "goatsndhoes",
+        "Id": "40769593",
+        "Name": "Jonathan Miller",
+        "NormalizedIgn": "goatsndhoes",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Support"
+        ],
+        "Email": "jam388@pitt,edu",
+        "Score": 1130,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "PhDZivanovich",
+        "Id": "30253324",
+        "Name": "Anna Fazzini",
+        "NormalizedIgn": "phdzivanovich",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "agf20@pitt.edu",
+        "Score": 1200,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Cheagasus",
+        "Id": "34251277",
+        "Name": "Christian Heagy",
+        "NormalizedIgn": "cheagasus",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "cah173@pitt.edu",
+        "Score": 1332,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Zelchor",
+        "Id": "24442000",
+        "Name": "Ryan Pollich",
+        "NormalizedIgn": "zelchor",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "rjp57@pitt.edu",
+        "Score": 2340,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "VIral Dhark",
+        "Id": "21065245",
+        "Name": "Mason Spangler",
+        "NormalizedIgn": "viraldhark",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "mks86@pitt.edu",
+        "Score": 1510,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "drumer337",
+        "Id": "51390347",
+        "Name": "Aaron Boyer",
+        "NormalizedIgn": "drumer337",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "arb160@pitt.edu",
+        "Score": 1185,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Lexuzi",
+        "Id": "40005484",
+        "Name": "Kelly Jin",
+        "NormalizedIgn": "lexuzi",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "muj4@pitt.edu",
+        "Score": 1200,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "NouveauVintage",
+        "Id": "36219",
+        "Name": "Julian Einhorn",
+        "NormalizedIgn": "nouveauvintage",
+        "Roles": [
+            "Top",
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "Jze8@pitt.edu",
+        "Score": 1280,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "iBench350",
+        "Id": "22745045",
+        "Name": "Kevin Madison",
+        "NormalizedIgn": "ibench350",
+        "Roles": [
+            "Top",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "KAM337@pitt.edu",
+        "Score": 1129,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Kh00",
+        "Id": "39582407",
+        "Name": "Andrew Khoo",
+        "NormalizedIgn": "kh00",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "ank103@pitt.edu",
+        "Score": 1583,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "vballboss",
+        "Id": "32429311",
+        "Name": "Daniel Petersen",
+        "NormalizedIgn": "vballboss",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "djp67@pitt.edu",
+        "Score": 1793,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "beamir",
+        "Id": "21021382",
+        "Name": "Gary Gold",
+        "NormalizedIgn": "beamir",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "gag48@pitt.edu",
+        "Score": 2200,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "TSM Dr Phil",
+        "Id": "28795053",
+        "Name": "Ethan Pavolik",
+        "NormalizedIgn": "tsmdrphil",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "etp12@pitt.edu",
+        "Score": 1850,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "TresTerrible",
+        "Id": "42849294",
+        "Name": "Andrew Salley",
+        "NormalizedIgn": "tresterrible",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "afs28@pitt.edu",
+        "Score": 1533,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Zarkran",
+        "Id": "363705",
+        "Name": "James Pun",
+        "NormalizedIgn": "zarkran",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "Jap199@pitt.edu",
+        "Score": 1994,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "JLysinger",
+        "Id": "26180827",
+        "Name": "Jordan Lysinger",
+        "NormalizedIgn": "jlysinger",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "Jal187@pitt.edu",
+        "Score": 1968,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "TresTerrible",
+        "Id": "42849294",
+        "Name": "Drew Salley",
+        "NormalizedIgn": "tresterrible",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "afs28@pitt.edu",
+        "Score": 1533,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Skallagrimr",
+        "Id": "19392396",
+        "Name": "Ian Anderson",
+        "NormalizedIgn": "skallagrimr",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "ima8@pitt.edu",
+        "Score": 1183,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Silent K",
+        "Id": "23363669",
+        "Name": "Chad Hienz",
+        "NormalizedIgn": "silentk",
+        "Roles": [
+            "Top",
+            "Mid"
+        ],
+        "Email": "cbh30@pitt.edu",
+        "Score": 1970,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Muptarded",
+        "Id": "36512660",
+        "Name": "Derek Gerson",
+        "NormalizedIgn": "muptarded",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "drg30@pitt.edu",
+        "Score": 1261,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Sabnc",
+        "Id": "30876013",
+        "Name": "Sanketh Kolli",
+        "NormalizedIgn": "sabnc",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "Ssk38@pitt.edu",
+        "Score": 1750,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "xmopolx",
+        "Id": "23174752",
+        "Name": "Alex Soffa",
+        "NormalizedIgn": "xmopolx",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "ajs243@pitt.edu",
+        "Score": 1859,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "synoid2",
+        "Id": "44564491",
+        "Name": "Ben Kraut",
+        "NormalizedIgn": "synoid2",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "bok15@pitt.edu",
+        "Score": 1500,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "predatorcarrot",
+        "Id": "35511944",
+        "Name": "Ethan Brien",
+        "NormalizedIgn": "predatorcarrot",
+        "Roles": [
+            "Top",
+            "Jungle"
+        ],
+        "Email": "ebb16@pitt.edu",
+        "Score": 1220,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "HopOffMyCroSoft",
+        "Id": "36972557",
+        "Name": "Steve Shields",
+        "NormalizedIgn": "hopoffmycrosoft",
+        "Roles": [
+            "Top",
+            "Mid",
+            "Support"
+        ],
+        "Email": "sas341@pitt.edu",
+        "Score": 1677,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "mcchungsta",
+        "Id": "19657057",
+        "Name": "John Chung",
+        "NormalizedIgn": "mcchungsta",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "joc98@pitt.edu",
+        "Score": 1500,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "CAH Smegs",
+        "Id": "26063480",
+        "Name": "Brent Go",
+        "NormalizedIgn": "cahsmegs",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "bjg59@pitt.edu",
+        "Score": 1531,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "BeardedDog",
+        "Id": "20059857",
+        "Name": "Zachary Chay-Dolan",
+        "NormalizedIgn": "beardeddog",
+        "Roles": [
+            "Top",
+            "Mid"
+        ],
+        "Email": "ztc2@pitt.edu",
+        "Score": 1662,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Sophreaky",
+        "Id": "24225375",
+        "Name": "Keith Stetsko",
+        "NormalizedIgn": "sophreaky",
+        "Roles": [
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "kms234@pitt.edu",
+        "Score": 1194,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "terrytini",
+        "Id": "21836193",
+        "Name": "Terry Tan",
+        "NormalizedIgn": "terrytini",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "tet19@pitt.edu",
+        "Score": 1200,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "GnarlyWalrus75",
+        "Id": "39941122",
+        "Name": "Thomas Sephakis",
+        "NormalizedIgn": "gnarlywalrus75",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "ths39@pitt.edu",
+        "Score": 1335,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Sraelek",
+        "Id": "22253247",
+        "Name": "Sheridan Zivanovich",
+        "NormalizedIgn": "sraelek",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "sdz5@pitt.edu",
+        "Score": 1748,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "OG gumby",
+        "Id": "20966292",
+        "Name": "Kyle tanczos",
+        "NormalizedIgn": "oggumby",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "klt43",
+        "Score": 1856,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "ScWLoL",
+        "Id": "25539587",
+        "Name": "Spencer Williams",
+        "NormalizedIgn": "scwlol",
+        "Roles": [
+            "Top",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "scw47@pitt.edu",
+        "Score": 1514,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "is That MattLife",
+        "Id": "30093938",
+        "Name": "Matt Landram",
+        "NormalizedIgn": "isthatmattlife",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "mcl46@pitt.edu",
+        "Score": 1512,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "TheArcticManatee",
+        "Id": "23117772",
+        "Name": "Leah Szczepanski ",
+        "NormalizedIgn": "thearcticmanatee",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "les127@pitt.edu",
+        "Score": 1550,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "thesnowmancometh",
+        "Id": "43134632",
+        "Name": "Robbie McKinstry",
+        "NormalizedIgn": "thesnowmancometh",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "rem89@pitt.edu",
+        "Score": 1040,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "lord of manatees",
+        "Id": "24134659",
+        "Name": "Neil Drobitch",
+        "NormalizedIgn": "lordofmanatees",
+        "Roles": [
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "njd36@pitt.edu",
+        "Score": 1792,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "ProbableLoss",
+        "Id": "25202436",
+        "Name": "Tim Crabtree",
+        "NormalizedIgn": "probableloss",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "tsc22@pitt.edu",
+        "Score": 0,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "docm",
+        "Id": "21077214",
+        "Name": "David Maynard",
+        "NormalizedIgn": "docm",
+        "Roles": [
+            "Top",
+            "Support"
+        ],
+        "Email": "drm83@pitt.edu",
+        "Score": 1179,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "ThatFatMofo",
+        "Id": "38744808",
+        "Name": "Howard Kim",
+        "NormalizedIgn": "thatfatmofo",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "hok12@pitt.edu",
+        "Score": 1538,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "EveryoneisOP",
+        "Id": "20383886",
+        "Name": "Evan Randazza",
+        "NormalizedIgn": "everyoneisop",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "ejr41@pitt.edu",
+        "Score": 1740,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Christmas Eve",
+        "Id": "25096552",
+        "Name": "Phero Nguyen",
+        "NormalizedIgn": "christmaseve",
+        "Roles": [
+            "Top",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "pmn17@pitt.edu",
+        "Score": 2103,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Not an automaton",
+        "Id": "35072807",
+        "Name": "Joshua Arquette",
+        "NormalizedIgn": "notanautomaton",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "jba20@pitt.edu",
+        "Score": 900,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Stoicheion",
+        "Id": "26847806",
+        "Name": "Mikey ",
+        "NormalizedIgn": "stoicheion",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "maa12321@gmail.com",
+        "Score": 2100,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Chromatique",
+        "Id": "29537566",
+        "Name": "Dan Goodstein",
+        "NormalizedIgn": "chromatique",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "deg63@pitt.edu",
+        "Score": 1307,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Certified Beef",
+        "Id": "44129690",
+        "Name": "Eric Svitek",
+        "NormalizedIgn": "certifiedbeef",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "ejs77@pitt.edu",
+        "Score": 1388,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "unclexruckus",
+        "Id": "31273534",
+        "Name": "jack ringe",
+        "NormalizedIgn": "unclexruckus",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "jjr83@pitt",
+        "Score": 1372,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "VioletPoison93",
+        "Id": "25580811",
+        "Name": "Sarah Maleski",
+        "NormalizedIgn": "violetpoison93",
+        "Roles": [
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "slm142@pitt.edu",
+        "Score": 1518,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "socklee416",
+        "Id": "48084667",
+        "Name": "Shawn Jackson",
+        "NormalizedIgn": "socklee416",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "saj72@pitt.edu",
+        "Score": 1263,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "FilthyPeasants",
+        "Id": "21996645",
+        "Name": "Connor Lewellyn",
+        "NormalizedIgn": "filthypeasants",
+        "Roles": [
+            "Top",
+            "Jungle"
+        ],
+        "Email": "cdl31@pitt.edu",
+        "Score": 1681,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "DDM13",
+        "Id": "21609911",
+        "Name": "Eric Niu",
+        "NormalizedIgn": "ddm13",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "ebn5@pitt.edu",
+        "Score": 1743,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Beastlee3",
+        "Id": "25335470",
+        "Name": "David Lee",
+        "NormalizedIgn": "beastlee3",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "dhl4@pitt.edu",
+        "Score": 1941,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Sophrothy",
+        "Id": "25109819",
+        "Name": "Matt Reinhold",
+        "NormalizedIgn": "sophrothy",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "mmr63@pitt.edu",
+        "Score": 1016,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "love stories",
+        "Id": "24811429",
+        "Name": "Cassidy Dunsmore",
+        "NormalizedIgn": "lovestories",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "cassidydunsmore@gmail.com",
+        "Score": 2250,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "ChocolateRainn",
+        "Id": "45815153",
+        "Name": "Brandon Koch",
+        "NormalizedIgn": "chocolaterainn",
+        "Roles": [
+            "Top",
+            "Mid"
+        ],
+        "Email": "bkk10@pitt.edu",
+        "Score": 1543,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Fartosh",
+        "Id": "436917",
+        "Name": "John Nicola",
+        "NormalizedIgn": "fartosh",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "jpn13@pitt.edu",
+        "Score": 2282,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Sea Lint",
+        "Id": "29499720",
+        "Name": "Clint Moore",
+        "NormalizedIgn": "sealint",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "ctm37@pitt.edu",
+        "Score": 1850,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "StuffedMan",
+        "Id": "25501030",
+        "Name": "Matt Jones",
+        "NormalizedIgn": "stuffedman",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "mrj20",
+        "Score": 1476,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "VailVeix",
+        "Id": "29999394",
+        "Name": "Alex Stiegel",
+        "NormalizedIgn": "vailveix",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "VailVeix@yahoo.com",
+        "Score": 1360,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "cccp6969",
+        "Id": "40689685",
+        "Name": "Stefan Ivanovici",
+        "NormalizedIgn": "cccp6969",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "sai19@pitt.edu",
+        "Score": 1589,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Smartpants77",
+        "Id": "34293729",
+        "Name": "Alex Somerville",
+        "NormalizedIgn": "smartpants77",
+        "Roles": [
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "Ats45",
+        "Score": 1596,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "TKSeoul",
+        "Id": "49171370",
+        "Name": "Tristan Kim",
+        "NormalizedIgn": "tkseoul",
+        "Roles": [
+            "Top",
+            "Support"
+        ],
+        "Email": "tbk6@pitt.edu",
+        "Score": 1248,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Fac3ToFloor",
+        "Id": "38724500",
+        "Name": "Damon Waslin",
+        "NormalizedIgn": "fac3tofloor",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "dpw17@pitt.edu",
+        "Score": 1253,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Brett Schuck",
+        "Id": "35468420",
+        "Name": "Jack Gamache",
+        "NormalizedIgn": "brettschuck",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "jag215@pitt.edu",
+        "Score": 1184,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Astraeon",
+        "Id": "25370570",
+        "Name": "James Unless",
+        "NormalizedIgn": "astraeon",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "hou5@pitt.edu",
+        "Score": 1930,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Memes and Kush",
+        "Id": "21461499",
+        "Name": "Brett Schuck",
+        "NormalizedIgn": "memesandkush",
+        "Roles": [
+            "Jungle",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "bas164@pitt.edu",
+        "Score": 1261,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Yung Manaday V",
+        "Id": "22278289",
+        "Name": "David Kramp",
+        "NormalizedIgn": "yungmanadayv",
+        "Roles": [
+            "Mid",
+            "Jungle"
+        ],
+        "Email": "DJK77@pitt.edu",
+        "Score": 2200,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Changster32",
+        "Id": "21860375",
+        "Name": "Thomas Chang",
+        "NormalizedIgn": "changster32",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "thc23@pitt.edu",
+        "Score": 2060,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Thanks Jake",
+        "Id": "21542865",
+        "Name": "Wils Osthoff",
+        "NormalizedIgn": "thanksjake",
+        "Roles": [
+            "Top",
+            "Support"
+        ],
+        "Email": "wtosthoff@gmail.com",
+        "Score": 1360,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Doctor Ballsdeep",
+        "Id": "35600595",
+        "Name": "Ian Straka",
+        "NormalizedIgn": "doctorballsdeep",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "Its5@pitt.edu",
+        "Score": 1233,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "csk1692",
+        "Id": "24055012",
+        "Name": "Cullen Krisher",
+        "NormalizedIgn": "csk1692",
+        "Roles": [
+            "Top",
+            "AD Carry"
+        ],
+        "Email": "csk16@pitt.edu",
+        "Score": 1290,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "GenghisKon",
+        "Id": "45892296",
+        "Name": "Connor Kelley",
+        "NormalizedIgn": "genghiskon",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "crk55@pitt.edu",
+        "Score": 1323,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Drugs",
+        "Id": "39898375",
+        "Name": "Ben Morgenstern",
+        "NormalizedIgn": "drugs",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "bdm46@pitt.edu",
+        "Score": 1582,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "StuffedCabbagez",
+        "Id": "24911310",
+        "Name": "Danny Gray",
+        "NormalizedIgn": "stuffedcabbagez",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "dgray432@gmail.com",
+        "Score": 1468,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Tslag",
+        "Id": "24915232",
+        "Name": "Trevor Richardson",
+        "NormalizedIgn": "tslag",
+        "Roles": [
+            "Mid"
+        ],
+        "Email": "TJR948@Pitt.edu",
+        "Score": 1900,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Vlakbard",
+        "Id": "36081529",
+        "Name": "Luke Zeman",
+        "NormalizedIgn": "vlakbard",
+        "Roles": [
+            "Top",
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "lgz2@pitt.edu",
+        "Score": 1227,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "o SwagTemplar o",
+        "Id": "212338",
+        "Name": "Eric Sayres",
+        "NormalizedIgn": "oswagtemplaro",
+        "Roles": [
+            "Top"
+        ],
+        "Email": "ens21@pitt.edu",
+        "Score": 1447,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Clark42game",
+        "Id": "19810173",
+        "Name": "Nick Gula",
+        "NormalizedIgn": "clark42game",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "NGG6@pitt.edu",
+        "Score": 1430,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Astraeon",
+        "Id": "25370570",
+        "Name": "James Unless",
+        "NormalizedIgn": "astraeon",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "hou5@pitt.edu",
+        "Score": 1930,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Darandin",
+        "Id": "20489716",
+        "Name": "Michael Heirendt",
+        "NormalizedIgn": "darandin",
+        "Roles": [
+            "Top",
+            "Jungle"
+        ],
+        "Email": "mjh113@pitt.edu",
+        "Score": 1920,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "hinesward",
+        "Id": "21821524",
+        "Name": "Rob Palmieri",
+        "NormalizedIgn": "hinesward",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "rap81@pitt.edu",
+        "Score": 2200,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Elnith",
+        "Id": "510106",
+        "Name": "Vicente Valenzuela",
+        "NormalizedIgn": "elnith",
+        "Roles": [
+            "Top",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "viv11@pitt.edu",
+        "Score": 1200,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "gushers429",
+        "Id": "34259981",
+        "Name": "Justin Lee",
+        "NormalizedIgn": "gushers429",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "jul76@pitt.edu",
+        "Score": 1116,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "StuckWithSupport",
+        "Id": "32866819",
+        "Name": "Eric Lee",
+        "NormalizedIgn": "stuckwithsupport",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "ehl11@pitt.edu",
+        "Score": 1360,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "CRS Dayman",
+        "Id": "24701546",
+        "Name": "William Kramer",
+        "NormalizedIgn": "crsdayman",
+        "Roles": [
+            "Top",
+            "Mid"
+        ],
+        "Email": "wkk3@pitt.edu",
+        "Score": 1780,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "marknoll",
+        "Id": "35710132",
+        "Name": "Ian Piper",
+        "NormalizedIgn": "marknoll",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "iep2@pitt.edu",
+        "Score": 903,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Son of Nel",
+        "Id": "40229452",
+        "Name": "Nelson Murphy",
+        "NormalizedIgn": "sonofnel",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "nlm46@pitt.edu",
+        "Score": 1538,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "trf virsh",
+        "Id": "23298232",
+        "Name": "zach virshup",
+        "NormalizedIgn": "trfvirsh",
+        "Roles": [
+            "Jungle"
+        ],
+        "Email": "zvirshup@gmail.com",
+        "Score": 1860,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Suezotiger",
+        "Id": "31578970",
+        "Name": "Joseph Hartle",
+        "NormalizedIgn": "suezotiger",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "jjh64@pitt.edu",
+        "Score": 1850,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Ridt",
+        "Id": "40521886",
+        "Name": "Jesse Bracho",
+        "NormalizedIgn": "ridt",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "JAB347@pitt.edu",
+        "Score": 1293,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Mullney",
+        "Id": "22373226",
+        "Name": "Ryan Mullner",
+        "NormalizedIgn": "mullney",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "rrmullner@gmail.com",
+        "Score": 1500,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "ASAsiz2pitt",
+        "Id": "31516456",
+        "Name": "Stone Zhang",
+        "NormalizedIgn": "asasiz2pitt",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "siz2idea@gmail.com",
+        "Score": 1442,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "bawwssss",
+        "Id": "24214440",
+        "Name": "Krishna Mallupeddi",
+        "NormalizedIgn": "bawwssss",
+        "Roles": [
+            "Top"
+        ],
+        "Email": "kkm34@pitt.edu",
+        "Score": 1653,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "goatsndhoes",
+        "Id": "40769593",
+        "Name": "Jonathan Miller",
+        "NormalizedIgn": "goatsndhoes",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Support"
+        ],
+        "Email": "jam388@pitt,edu",
+        "Score": 1130,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Bloosnail",
+        "Id": "24753806",
+        "Name": "Daniel Hui",
+        "NormalizedIgn": "bloosnail",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "dah124@pitt.edu",
+        "Score": 2206,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "OTL",
+        "Id": "23695779",
+        "Name": "Max Song",
+        "NormalizedIgn": "otl",
+        "Roles": [
+            "Support"
+        ],
+        "Email": "MAS569@pitt.edu",
+        "Score": 2315,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "fireyred77",
+        "Id": "23281959",
+        "Name": "Dylan \"Smegs\" Atkinson",
+        "NormalizedIgn": "fireyred77",
+        "Roles": [
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "dna9@pitt.edu",
+        "Score": 1304,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "C9 Aznblaze",
+        "Id": "25884266",
+        "Name": "michael",
+        "NormalizedIgn": "c9aznblaze",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "miy33@pitt.edu",
+        "Score": 1864,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "PwnNarbs",
+        "Id": "21921095",
+        "Name": "PwnNarbs",
+        "NormalizedIgn": "pwnnarbs",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "ajj29@pitt.edu",
+        "Score": 2270,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "steelcurtain09",
+        "Id": "27661760",
+        "Name": "William Massimini",
+        "NormalizedIgn": "steelcurtain09",
+        "Roles": [
+            "Top",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "massiminiwilliam@gmail.com",
+        "Score": 1161,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "ozymandias23",
+        "Id": "25432520",
+        "Name": "Khalif Coaxum",
+        "NormalizedIgn": "ozymandias23",
+        "Roles": [
+            "Top",
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "krc56@pitt.edu",
+        "Score": 1888,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Emperor Wu",
+        "Id": "39992102",
+        "Name": "Slobodan Males",
+        "NormalizedIgn": "emperorwu",
+        "Roles": [
+            "Jungle",
+            "Mid",
+            "Support"
+        ],
+        "Email": "slm151@pitt.edu",
+        "Score": 1173,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "DarthRetard",
+        "Id": "24980266",
+        "Name": "Andrew Rabeneck",
+        "NormalizedIgn": "darthretard",
+        "Roles": [
+            "AD Carry"
+        ],
+        "Email": "ajr140@pitt.edu",
+        "Score": 1550,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Vahti",
+        "Id": "25079407",
+        "Name": "Trevor Leong",
+        "NormalizedIgn": "vahti",
+        "Roles": [
+            "Top",
+            "Mid"
+        ],
+        "Email": "trl27@pitt.edu",
+        "Score": 1675,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "is That MattLife",
+        "Id": "30093938",
+        "Name": "Matt Landram",
+        "NormalizedIgn": "isthatmattlife",
+        "Roles": [
+            "Mid"
+        ],
+        "Email": "mcl46@pitt.edu",
+        "Score": 1512,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Ptownkid",
+        "Id": "37739710",
+        "Name": "Daniel Shmagin",
+        "NormalizedIgn": "ptownkid",
+        "Roles": [
+            "Top",
+            "Jungle"
+        ],
+        "Email": "DLS125@pitt.edu",
+        "Score": 1964,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "Eagle62Swipe",
+        "Id": "57316180",
+        "Name": "Rich Cuddy",
+        "NormalizedIgn": "eagle62swipe",
+        "Roles": [
+            "Mid",
+            "Support"
+        ],
+        "Email": "rjc77@pitt.edu",
+        "Score": 1042,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "rswift112",
+        "Id": "23337979",
+        "Name": "Ruiqi Shi",
+        "NormalizedIgn": "rswift112",
+        "Roles": [
+            "Mid",
+            "AD Carry"
+        ],
+        "Email": "rus21@pitt.edu",
+        "Score": 1500,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Crusading Angel",
+        "Id": "22745210",
+        "Name": "Phong",
+        "NormalizedIgn": "crusadingangel",
+        "Roles": [
+            "Jungle",
+            "AD Carry"
+        ],
+        "Email": "ptc12@pitt.edu",
+        "Score": 1430,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "ewalk728",
+        "Id": "37181350",
+        "Name": "Evan Walker",
+        "NormalizedIgn": "ewalk728",
+        "Roles": [
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "evw10@pitt.edu",
+        "Score": 1289,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Nabzen",
+        "Id": "59349257",
+        "Name": "Yacine kaidyoucef",
+        "NormalizedIgn": "nabzen",
+        "Roles": [
+            "Top",
+            "AD Carry"
+        ],
+        "Email": "Nabzenyacine@gmail.com",
+        "Score": 1802,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "XeroStride",
+        "Id": "23714098",
+        "Name": "Joshua Koshy",
+        "NormalizedIgn": "xerostride",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "jdk77@pitt.edu",
+        "Score": 1500,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "BlakAvenge",
+        "Id": "38271618",
+        "Name": "Thomas Stewart",
+        "NormalizedIgn": "blakavenge",
+        "Roles": [
+            "Jungle",
+            "Support"
+        ],
+        "Email": "tes5@pitt.edu",
+        "Score": 1743,
+        "Team": "",
+        "Captain": true
+    },
+    {
+        "Ign": "BidoofMasterRace",
+        "Id": "20018561",
+        "Name": "Brandon La",
+        "NormalizedIgn": "bidoofmasterrace",
+        "Roles": [
+            "Top",
+            "Jungle",
+            "Mid"
+        ],
+        "Email": "bnl22@pitt.edu",
+        "Score": 1105,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Berkinator",
+        "Id": "47381513",
+        "Name": "Alex Berk",
+        "NormalizedIgn": "berkinator",
+        "Roles": [
+            "Top",
+            "Support"
+        ],
+        "Email": "abb53@pitt.edu",
+        "Score": 1150,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "Vsqun Xixi ",
+        "Id": "38992437",
+        "Name": "Xizi Xiao",
+        "NormalizedIgn": "vsqunxixi",
+        "Roles": [
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "xix36@pitt.edu",
+        "Score": 2203,
+        "Team": "",
+        "Captain": false
+    },
+    {
+        "Ign": "iBench350",
+        "Id": "22745045",
+        "Name": "Kevin Madison",
+        "NormalizedIgn": "ibench350",
+        "Roles": [
+            "Top",
+            "Mid",
+            "AD Carry",
+            "Support"
+        ],
+        "Email": "madison.kevin@rocketmail.com",
+        "Score": 1234,
+        "Team": "",
+        "Captain": false
+    }
+]

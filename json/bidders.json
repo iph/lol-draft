@@ -1,0 +1,441 @@
+[
+    {
+        "Player": {
+            "Ign": "President Nixon",
+            "Id": "22033004",
+            "Name": "Brian Dulick",
+            "NormalizedIgn": "presidentnixon",
+            "Roles": [
+                "Mid",
+                "AD Carry",
+                "Support"
+            ],
+            "Email": "bed34@pitt.edu",
+            "Score": 2005,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "613f869bc22afcb43e5b77010490897669473b04aacf905da6e4171da206bc6f14d7578d7a6bb3270b8de73e83fb59ed351b0f740c3a070dcfeef74b5f84cb63"
+    },
+    {
+        "Player": {
+            "Ign": "PhDZivanovich",
+            "Id": "30253324",
+            "Name": "Anna Fazzini",
+            "NormalizedIgn": "phdzivanovich",
+            "Roles": [
+                "Support"
+            ],
+            "Email": "agf20@pitt.edu",
+            "Score": 1200,
+            "Team": "Hail Hydra",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "sheridan"
+    },
+    {
+        "Player": {
+            "Ign": "Cheagasus",
+            "Id": "34251277",
+            "Name": "Christian Heagy",
+            "NormalizedIgn": "cheagasus",
+            "Roles": [
+                "Mid",
+                "AD Carry"
+            ],
+            "Email": "cah173@pitt.edu",
+            "Score": 1332,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "ce8947d427b25fc73637acf561f3561687a2bfad0d4943ca46bdedc0788720ff504b2105118bb6f806b09afa948ae6df27dbfefc4a9da341936ad9229c4cb0d0"
+    },
+    {
+        "Player": {
+            "Ign": "Zelchor",
+            "Id": "24442000",
+            "Name": "Ryan Pollich",
+            "NormalizedIgn": "zelchor",
+            "Roles": [
+                "Top",
+                "Jungle",
+                "AD Carry"
+            ],
+            "Email": "rjp57@pitt.edu",
+            "Score": 2340,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "1965cc5edd3f9f65d27ec92040b896c3fb84e547b7937afe02f05fbe800c3a87ce96d29fbea6f207e22cb629127d1c5408fa4cc7e884a9372b2b111273c1a510"
+    },
+    {
+        "Player": {
+            "Ign": "TresTerrible",
+            "Id": "42849294",
+            "Name": "Andrew Salley",
+            "NormalizedIgn": "tresterrible",
+            "Roles": [
+                "Support"
+            ],
+            "Email": "afs28@pitt.edu",
+            "Score": 1533,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "40def3d4b71fd67a2f597c1b6fa0df2fa0db503f6990925025350197c7b4c170c7c26a224380f202a0b0a93416a0f47602ad38fe7c8457f71362ff4c7bf5debe"
+    },
+    {
+        "Player": {
+            "Ign": "JLysinger",
+            "Id": "26180827",
+            "Name": "Jordan Lysinger",
+            "NormalizedIgn": "jlysinger",
+            "Roles": [
+                "Mid",
+                "AD Carry",
+                "Support"
+            ],
+            "Email": "Jal187@pitt.edu",
+            "Score": 1968,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "f81796b5ff460f5b2edc7cce221174ffae320999fd4c36a59ef45fa38cac48429ef9a79dbbec41aa63a8ebb3a762ab0826febe3863904e6e3cb8c60e34879ab3"
+    },
+    {
+        "Player": {
+            "Ign": "Silent K",
+            "Id": "23363669",
+            "Name": "Chad Hienz",
+            "NormalizedIgn": "silentk",
+            "Roles": [
+                "Top",
+                "Mid"
+            ],
+            "Email": "cbh30@pitt.edu",
+            "Score": 1970,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "8e2ff809c64149ba58d34221c1b9fe10f0a06ff21a6baeb98b09bd8d09b89d883ca36485d95cf859724c12c0724f2c3b1871405e619862e9ce37d281bb4e1505"
+    },
+    {
+        "Player": {
+            "Ign": "Sabnc",
+            "Id": "30876013",
+            "Name": "Sanketh Kolli",
+            "NormalizedIgn": "sabnc",
+            "Roles": [
+                "Top",
+                "Jungle",
+                "Mid"
+            ],
+            "Email": "Ssk38@pitt.edu",
+            "Score": 1750,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "1fa936190512677c6d2e4e9b81e25e38e54f6d30caaf5a6e5c188a26bc70b4886fe345d4c3d6ad250c88b260bdd26772c5bcae71b0b47e4650b968c8149426cf"
+    },
+    {
+        "Player": {
+            "Ign": "lord of manatees",
+            "Id": "24134659",
+            "Name": "Neil Drobitch",
+            "NormalizedIgn": "lordofmanatees",
+            "Roles": [
+                "Jungle",
+                "AD Carry"
+            ],
+            "Email": "njd36@pitt.edu",
+            "Score": 1792,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "ecd6a931e432feeb738cb044ffcedc81ee4a765000bf47938382afb52f6f5c3ab32b74f6d88b5e646742ccd8e1256d5c79ad50ad813749953238e458ce33613d"
+    },
+    {
+        "Player": {
+            "Ign": "docm",
+            "Id": "21077214",
+            "Name": "David Maynard",
+            "NormalizedIgn": "docm",
+            "Roles": [
+                "Top",
+                "Support"
+            ],
+            "Email": "drm83@pitt.edu",
+            "Score": 1179,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "a2a0bf55b8fba1898ab184953ad28136078f62e069b3f6feb8d494137904644dbf16a1f35d7044897e4d0a46e2844a866f483856d414b8b73fe72ac2c479db0a"
+    },
+    {
+        "Player": {
+            "Ign": "Stoicheion",
+            "Id": "26847806",
+            "Name": "Mikey ",
+            "NormalizedIgn": "stoicheion",
+            "Roles": [
+                "Top",
+                "Jungle",
+                "AD Carry"
+            ],
+            "Email": "maa12321@gmail.com",
+            "Score": 2100,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "0cffe5f92b196a6794c94f1bdf183edd4e2397d7470f5cc45cbb3ba6089ba6fea7272d371b8a12af886fdb9c55ce8d184609f7f8ea26dd2d8184e9473b32412d"
+    },
+    {
+        "Player": {
+            "Ign": "FilthyPeasants",
+            "Id": "21996645",
+            "Name": "Connor Lewellyn",
+            "NormalizedIgn": "filthypeasants",
+            "Roles": [
+                "Top",
+                "Jungle"
+            ],
+            "Email": "cdl31@pitt.edu",
+            "Score": 1681,
+            "Team": "Bitches",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "nvrfgt"
+    },
+    {
+        "Player": {
+            "Ign": "DDM13",
+            "Id": "21609911",
+            "Name": "Eric Niu",
+            "NormalizedIgn": "ddm13",
+            "Roles": [
+                "Top",
+                "Jungle",
+                "Mid",
+                "AD Carry",
+                "Support"
+            ],
+            "Email": "ebn5@pitt.edu",
+            "Score": 1743,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "aeaa03b68e2d3357547d3a4e6d18f081ae35419c31ba216702577d37306f16f0c229700b9ba418ca01a0a7288f0b04ea89e5c7644e7927387b807fee86045b54"
+    },
+    {
+        "Player": {
+            "Ign": "love stories",
+            "Id": "24811429",
+            "Name": "Cassidy Dunsmore",
+            "NormalizedIgn": "lovestories",
+            "Roles": [
+                "Mid",
+                "AD Carry"
+            ],
+            "Email": "cassidydunsmore@gmail.com",
+            "Score": 2250,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "9df28c6419c16b3651aa932318010f75670caf2de702a48e2d11e49216131f3ee6b282a5839c432433cd02a7974f11ccf01a8a2b63a3a7b348bb041c02e71d09"
+    },
+    {
+        "Player": {
+            "Ign": "ChocolateRainn",
+            "Id": "45815153",
+            "Name": "Brandon Koch",
+            "NormalizedIgn": "chocolaterainn",
+            "Roles": [
+                "Top",
+                "Mid"
+            ],
+            "Email": "bkk10@pitt.edu",
+            "Score": 1543,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "9d97fac2940d954e44b9087339ba97f02199c840a89ec8ab500009878582d66f5b64ce50393d960970e33accb8d73927ee244088006269cfecddca1a47155a3f"
+    },
+    {
+        "Player": {
+            "Ign": "Fac3ToFloor",
+            "Id": "38724500",
+            "Name": "Damon Waslin",
+            "NormalizedIgn": "fac3tofloor",
+            "Roles": [
+                "Jungle",
+                "Mid",
+                "Support"
+            ],
+            "Email": "dpw17@pitt.edu",
+            "Score": 1253,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "c11cbd6c4baabb234d379d47b668539005a266e915342862a88d99b8225567bbb3c06fc26d390208e0e1af0e0b4de64aaa35101299e6470258facc6df83864de"
+    },
+    {
+        "Player": {
+            "Ign": "Changster32",
+            "Id": "21860375",
+            "Name": "Thomas Chang",
+            "NormalizedIgn": "changster32",
+            "Roles": [
+                "Jungle",
+                "Mid",
+                "AD Carry"
+            ],
+            "Email": "thc23@pitt.edu",
+            "Score": 2060,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "6de368b7b8f639dad6a28caf0ea0e438e3f7ec0fb778a648c3763ad5756183208429dec7c7770e9218a2ecbc59f271d0e2d0476bc0a5c966c342a10b309be5f8"
+    },
+    {
+        "Player": {
+            "Ign": "Darandin",
+            "Id": "20489716",
+            "Name": "Michael Heirendt",
+            "NormalizedIgn": "darandin",
+            "Roles": [
+                "Top",
+                "Jungle"
+            ],
+            "Email": "mjh113@pitt.edu",
+            "Score": 1920,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "b276f169b33003db4364c901a5e5435eb2e6dfe6e12757f364304cb0f53e57b7b163acd26f797603cd16002c59a5b4b43f77bac66d7d5463cbc427be190a758e"
+    },
+    {
+        "Player": {
+            "Ign": "trf virsh",
+            "Id": "23298232",
+            "Name": "zach virshup",
+            "NormalizedIgn": "trfvirsh",
+            "Roles": [
+                "Jungle"
+            ],
+            "Email": "zvirshup@gmail.com",
+            "Score": 1860,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "a56a9c185b931a94af4accc9b773cceed4fc015256164eb56758a36c81921b1c331fa422bd1454e0d7743b624ca97746ea8fa1dd21b2f7608aed78ec19faa698"
+    },
+    {
+        "Player": {
+            "Ign": "Mullney",
+            "Id": "22373226",
+            "Name": "Ryan Mullner",
+            "NormalizedIgn": "mullney",
+            "Roles": [
+                "Support"
+            ],
+            "Email": "rrmullner@gmail.com",
+            "Score": 1500,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "3a7cbd316af0c3a2f4a2d06ada1679a6ff83f5a1fea3a8c00eecaac3b5d39b48ba2d42f105485ca5355e81ce8df0ae5ac5d0a074b2ad978bb6d25fd7d2ca9700"
+    },
+    {
+        "Player": {
+            "Ign": "ozymandias23",
+            "Id": "25432520",
+            "Name": "Khalif Coaxum",
+            "NormalizedIgn": "ozymandias23",
+            "Roles": [
+                "Top",
+                "Mid",
+                "AD Carry"
+            ],
+            "Email": "krc56@pitt.edu",
+            "Score": 1888,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "74a59e393cdb4719f2b85768a22b10adb62eb38b7ad9eb3b6b64caa5ad3c42badc2b1744e913b7f62c4ecd914d1cc86a081a02a871d5c7003750cfd545147c64"
+    },
+    {
+        "Player": {
+            "Ign": "Vahti",
+            "Id": "25079407",
+            "Name": "Trevor Leong",
+            "NormalizedIgn": "vahti",
+            "Roles": [
+                "Top",
+                "Mid"
+            ],
+            "Email": "trl27@pitt.edu",
+            "Score": 1675,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "ce96723046dc838c4b32a03a923e47bf03757cc22d402bff9a942c35c7a247addc5f02e3081cf6fb415429d76b07e6cf23a57dd8319acd53372f0c1ea041230b"
+    },
+    {
+        "Player": {
+            "Ign": "Ptownkid",
+            "Id": "37739710",
+            "Name": "Daniel Shmagin",
+            "NormalizedIgn": "ptownkid",
+            "Roles": [
+                "Top",
+                "Jungle"
+            ],
+            "Email": "DLS125@pitt.edu",
+            "Score": 1964,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "1129042da790f9f4f19d4e8870fb5e015455de8e319a2195d9916dc281098f6411246641952d29db23093a7f018d3b70acf961d85120a468ec4a113b996f8c6d"
+    },
+    {
+        "Player": {
+            "Ign": "BlakAvenge",
+            "Id": "38271618",
+            "Name": "Thomas Stewart",
+            "NormalizedIgn": "blakavenge",
+            "Roles": [
+                "Jungle",
+                "Support"
+            ],
+            "Email": "tes5@pitt.edu",
+            "Score": 1743,
+            "Team": "",
+            "Captain": true
+        },
+        "RemainingPoints": 100,
+        "Token": "ea9645a08d172dafef9b81157cf42d25bb6e30f0b1ed8600f9dbe23a9a55472b6f86d50028c86221a7770145f6036ab1476668f929186b4ff8203b22ef7832dd"
+    }
+]
